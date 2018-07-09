@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  username: MyString
+  windform: MyString
+  windmill: MyString
+  millactive: 
+
+two:
+  username: MyString
+  windform: MyString
+  windmill: MyString
+  millactive: 

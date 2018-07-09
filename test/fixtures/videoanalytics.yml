@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  noplate: MyString
+  intime: MyString
+  outtime: MyString
+  status: MyString
+
+two:
+  noplate: MyString
+  intime: MyString
+  outtime: MyString
+  status: MyString

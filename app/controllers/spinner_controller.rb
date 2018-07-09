@@ -1,0 +1,2 @@
+class SpinnerController < ApplicationController
+end

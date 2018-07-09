@@ -1,0 +1,2 @@
+class Conss < ApplicationRecord
+end

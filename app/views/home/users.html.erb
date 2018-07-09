@@ -1,0 +1,23 @@
+Hi This is Users Pages
+<table>
+  <thead>
+  <tr>
+    <th>Id</th>
+    <th>Name</th>
+    <th>Dob</th>
+    <th>Age</th>
+    <th>Gender</th>
+  </tr>
+  </thead>
+  <tbody>
+  <% User.all.each do |user| %>
+    <tr>
+      <td><%= user.id %></td>
+      <td><%= user.name %></td>
+      <td><%= user.dob %></td>
+      <td><%= user.age %></td>
+      <td><%= user.gender %></td>
+    </tr>
+  <% end %>
+  </tbody>
+</table>

@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Mode: 1.5
+  Power: 1.5
+  Gen: 1.5
+  rotor: 1.5
+  wind: 1.5
+  pitch: 1.5
+
+two:
+  Mode: 1.5
+  Power: 1.5
+  Gen: 1.5
+  rotor: 1.5
+  wind: 1.5
+  pitch: 1.5

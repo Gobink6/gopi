@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Total: 1.5
+  Link_ok: 1.5
+  Turbine_ok: 1.5
+  Run: 1.5
+  Gen1: 1.5
+  Gen2: 
+
+two:
+  Total: 1.5
+  Link_ok: 1.5
+  Turbine_ok: 1.5
+  Run: 1.5
+  Gen1: 1.5
+  Gen2: 

@@ -1,0 +1,15 @@
+<h1>details</h1>
+<table>
+	<tr>
+		<th>img</th>
+		<th>imgg</th>
+		<th>imggg</th>
+	</tr>
+	<% @datadb.each do |article| %>
+	<tr>
+		<td><%= article.img %></td>
+		<td><%= article.imgg %></td>
+		<td><%= article.imggg %></td>
+	</tr>
+	<% end %>
+</table>

@@ -1,0 +1,2 @@
+class Facedet < ApplicationRecord
+end

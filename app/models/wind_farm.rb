@@ -1,0 +1,2 @@
+class WindFarm < ApplicationRecord
+end

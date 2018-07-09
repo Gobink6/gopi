@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Ambi: 1.5
+  Gear: 1.5
+  Gen1: 1.5
+  Gen2: 1.5
+  Nacel: 1.5
+  Cntrl: 1.5
+  Hydr: 1.5
+
+two:
+  Ambi: 1.5
+  Gear: 1.5
+  Gen1: 1.5
+  Gen2: 1.5
+  Nacel: 1.5
+  Cntrl: 1.5
+  Hydr: 1.5

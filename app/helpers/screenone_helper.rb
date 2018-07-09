@@ -1,0 +1,2 @@
+module ScreenoneHelper
+end

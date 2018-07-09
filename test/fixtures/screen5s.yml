@@ -1,0 +1,23 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Power: 1.5
+  Cosphi: 1.5
+  freq: 1.5
+  L1_Voltage: 1.5
+  L1_Current: 1.5
+  L2_voltage: 1.5
+  L2_Current: 1.5
+  L3_voltage: 1.5
+  L3_current: 1.5
+
+two:
+  Power: 1.5
+  Cosphi: 1.5
+  freq: 1.5
+  L1_Voltage: 1.5
+  L1_Current: 1.5
+  L2_voltage: 1.5
+  L2_Current: 1.5
+  L3_voltage: 1.5
+  L3_current: 1.5

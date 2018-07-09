@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mod: MyString
+  power: 1.5
+  gen: 1.5
+  rotor: 1.5
+  wind: 1.5
+  pitch: 1.5
+
+two:
+  mod: MyString
+  power: 1.5
+  gen: 1.5
+  rotor: 1.5
+  wind: 1.5
+  pitch: 1.5

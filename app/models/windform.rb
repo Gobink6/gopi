@@ -1,0 +1,2 @@
+class Windform < ApplicationRecord
+end
